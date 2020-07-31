@@ -17,6 +17,10 @@ func SayHello(language string) {
 	}
 }
 
+func Hello(){
+
+}
+
 func randInt64(min, max int64) int64 {
 	if min < 0 {
 		return 0
